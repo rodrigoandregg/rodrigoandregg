@@ -31,4 +31,4 @@ Desarrollador front-end autodidacta con enfoque riguroso en accesibilidad, rendi
 
 ***
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rodancoder&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=252525&title_color=ff1d8e&text_color=f5f5f5&icon_color=7e00bf)
+![Github Stats](https://github-readme-stats-fast.vercel.app/api?username=rodancoder&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=252525&title_color=ff1d8e&text_color=f5f5f5&icon_color=7e00bf)
